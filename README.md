@@ -27,6 +27,7 @@ Note: You only need to do this once.
 
 1. In a Python 2 Session:
 ```Python
+!pip2 install --upgrade argparse
 !pip2 install --upgrade dask 
 !pip2 install --upgrade keras 
 !pip2 install --upgrade matplotlib==2.0.0. 
